@@ -12,7 +12,7 @@
 - Learning Cypress and Playwright for next-gen automation testing  
 
 ### 📫 How to reach me  
-- LinkedIn: [linkedin.com/in/busamsrinivas](https://linkedin.com/in/busamsrinivas)  
+- LinkedIn:[profile](www.linkedin.com/in/venkat-sai-srinivas-busam)
 - Email: srinivas07.busam@gmail.com  
 
 ---
