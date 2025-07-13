@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Busam Venkata Sai Srinivas
 
-<!--
-**Busam07/Busam07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Postgraduate Diploma in Digital Transformation — Griffith College Dublin, Ireland  
+🛠️ QA Automation Engineer | Skilled in Java, Selenium WebDriver, RestAssured, TestNG, Maven  
+🚀 Passionate about building reliable, maintainable automation frameworks and ensuring software quality  
+🌍 Experienced working with international teams and applying global best practices  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Currently working on  
+- Enhancing API and UI automation projects with CI/CD integration  
+- Learning Cypress and Playwright for next-gen automation testing  
+
+### 📫 How to reach me  
+- LinkedIn: [linkedin.com/in/busamsrinivas](https://linkedin.com/in/busamsrinivas)  
+- Email: srinivas07.busam@gmail.com  
+
+---
+
+Feel free to explore my repositories and connect with me!
